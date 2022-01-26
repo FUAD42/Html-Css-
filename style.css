@@ -1,0 +1,30 @@
+.first{
+    width: 2000px;
+    height: max-content;
+    background-color: #00ffaa;
+    border: #00ffaa;
+    color: white;
+}
+table, th,tr, td {
+    border: 1px solid black;
+  }
+.circle{
+    margin-left: 60px;
+}
+.square{
+    margin-left: 140px;
+}
+.circle1{
+    margin-left: 60px;
+}
+.square1{
+    margin-left: 140px;
+}
+fieldset{
+    background-color: rgb(204, 242, 255);
+}
+p{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
